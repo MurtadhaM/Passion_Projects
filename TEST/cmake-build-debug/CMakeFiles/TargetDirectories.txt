@@ -1,0 +1,3 @@
+/Users/m/Documents/GitHub/Passion_Projects/TEST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/m/Documents/GitHub/Passion_Projects/TEST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m/Documents/GitHub/Passion_Projects/TEST/cmake-build-debug/CMakeFiles/TEST.dir
