@@ -1,0 +1,25 @@
+{
+  "name": "Auto-Register",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+    "main": "pathToMain",
+
+
+    "dependencies": {
+      "puppeteer": "^19.4.1"
+    }
+  ,
+
+  
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+      ,
+      "start": "node app.js",
+
+      "start:dev": "nodemon app.js"
+
+
+    }
+  
+}
